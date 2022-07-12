@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f78e0667eaf744c4e8620d4d7a8627ea, type: 3}
+  m_Name: 45ACP Smith
+  m_EditorClassIdentifier: 
+  displayName: .45 ACP Smith
+  Icon: {fileID: 0}
+  weaponCategory: 2
+  weaponType: 0
+  weaponHand: 0
+  animatorOverride: {fileID: 22100000, guid: a681bac489e211043a50c65fdd1047bc, type: 2}
+  equippedPrefab: {fileID: 5997313884046919165, guid: 3f03f7f934711f046a5c540535cca126,
+    type: 3}
+  weaponPickup: {fileID: 5883258681317295565, guid: 3fe9591515d5c0c4e99540a542afc587,
+    type: 3}
+  projectile: {fileID: 8629531695905150222, guid: b452cf627ab34c44cbacf9cd9be80dc4,
+    type: 3}
+  fireRate: 0.05
+  reloadTime: 5
+  explosionArea: 0
+  weaponDamage: 7
+  maxAmmoAmount: 100
+  minAmmoAmount: 30
+  burstAmmount: 3
+  weaponTypeArray: 1
